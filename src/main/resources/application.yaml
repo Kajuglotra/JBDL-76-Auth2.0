@@ -1,0 +1,12 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23liLnxEENUMQt27ya
+            client-secret: ab16ae643841c292095b0ab0770f06c3b7b9d756
+
+#            yaml yml
+#           jpg jpeg
+#           htm, html
